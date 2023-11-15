@@ -1,6 +1,7 @@
 ### Your average computer nerd
-Self hosting enjoyer
-Owner of Firedoge Network
+- Self hosting enjoyer
+- Owner of Firedoge Network
+
 <!--
 **FelixKawaii/FelixKawaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
